@@ -45,14 +45,14 @@ february 2017– for today (6 years)
 •	VoIP administration, troubleshooting and deployment (Kerio operator, Cisco CME)
 •	Design and planning IT infrastructure of new construction (Fabrics, Logistic centers, Warehouses and offices)
   
-  Implemented projects
+Implemented projects
+
 •	Built standby sites for business-critical ERP systems on AWS and Azure.
 •	Complex backup system based on Veeam, AWS S3 and EMC DataDomain.
 •	Implemented centralized backup solution for Trade Distributors based on AWS (S3, IAM, Terraform).
 •	Deployment of a corporate monitoring system based on Zabbix (1700 devices under the monitoring). The reliability of IT systems has significantly increased, and response time to IT incidents has reduce.
 •	Implementation of NGFW CheckPoint. Organization of corporate secure Internet access, e-mail protection. Significant increase in information security.
 •	Modernization of the local network and data center network based on Cisco equipment, previously used equipment from different vendors (DLink, TP-Link, HP, 3Com, Cisco). Significantly increased reliability and network stability simplified maintenance.
-
 
 
 System administrator (Network engineer, UNIX Administrator) at BAYADERA GROUP 
