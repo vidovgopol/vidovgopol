@@ -1,12 +1,22 @@
-Dovhopol Volodymyr	
+Dovhopol Volodymyr
+
 Birth date:	06 March 1988	
-Region: 	 Kyiv	 	
+
+Region: 	 Kyiv	
+
 Phone number:	 0977279286	
+
 E-mail:	              vidovgopol@gmail.com	
+
 Skype:	              vova.dovgopol	
+
 Linkedin profile:	 https://www.linkedin.com/in/vladymyr-dovgopol-35790267
-  
-        Team leader of network and server administration group
+
+
+
+Team leader of network and server administration group
+
+
 
 Certification
   
