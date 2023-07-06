@@ -15,7 +15,7 @@ GitHub account: [GitHub]
 
 Certification
 
-![certs](./certs.png)
+![certs](./pictures/certs.png)
 
 -	AWS Certified Solution Architect – Associate
 -	AWS Certified SysOps Administrator – Associate
