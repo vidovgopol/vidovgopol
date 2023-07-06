@@ -1,9 +1,14 @@
 ## Volodymyr Dovhopol	
 Region: 	 Kyiv	 	
+
 Phone number:	 0977279286	
+
 E-mail:	              vidovgopol@gmail.com	
+
 Skype:	              vova.dovgopol	
+
 Linkedin profile: [Linkedin]
+
 GitHub account: [GitHub]
 
 # DevOps
