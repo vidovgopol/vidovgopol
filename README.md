@@ -26,3 +26,10 @@ Certification
 ## Skills
 
 AWS, Linux, Networking, Git, GitHub Actions CICD, ArgoCD, Terraform, Docker, Kubernetes, Zabbix, VMWare, Blade Servers, SAN, FC, NAS, Network Security, Cisco, NGFW, IPS, VPN, IPSec
+
+
+
+
+[Linkedin]: <https://www.linkedin.com/in/vladymyr-dovgopol-35790267>
+[GitHub]: <https://github.com/vidovgopol>
+
