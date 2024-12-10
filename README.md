@@ -17,7 +17,9 @@ GitHub account: [GitHub]
 
 ![certs](./pictures/certs.png)
 
--	Kubernetes Certified Administrator 
+-	Kubernetes Certified Administrator
+-	Kubernetes Certified Security Specialist
+-	AWS Certified Security - Specialty
 -	AWS Certified Solution Architect – Associate
 -	AWS Certified SysOps Administrator – Associate
 -	AWS Certified Developer – Associate
